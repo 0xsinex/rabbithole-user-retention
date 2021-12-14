@@ -2,8 +2,7 @@
 Using machine-learning to find what metrics drive user-retention
 
 # Files
-|- Initial data
-| 
+Initial data
      |-- 071a9bf4-29dc-4a10-96f4-1b995c88c20b.csv # a query result
 
      |-- 433d73df-1cae-47ee-88b1-6f585eb32adc.csv # a query result
@@ -18,13 +17,10 @@ Using machine-learning to find what metrics drive user-retention
 
      |-- notebook.ipynb # Jupyter notebook (Python 3.8) for cleaning, balancing, analyzing dataset
 
-|
 
-|-- D5_report.pdf # project homework report
+D5_report.pdf # project homework report
 
-|
-
-|-- README.MD # Readme file
+README.MD # Readme file
 
 
 # Requirements
