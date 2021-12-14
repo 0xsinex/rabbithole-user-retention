@@ -31,6 +31,7 @@ Libraries: pandas, numpy, sklearn, imblearn
 
 # Usage
 1. Clone the repo
+  https://github.com/0xsinex/rabbithole-user-retention.git
   
 2. Install (or update if needed) all required libraries (use pip or other similar package installers)
 3. Run the *notebook.ipynb* with either Jupyter Notebook or another python interpretor
